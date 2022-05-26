@@ -9,3 +9,6 @@
    * Have made list of recipes under "My Favourite Recipes" (English) / "Meine Lieblingsgerichte" (Deutsch)" hover
    * Clicking on recipe in list points to the recipe on the page
    * Have added "Back to Top" at end of each recipe to reach the top of the page
+
+##### Screenshot of index_english.html #####
+![My Image](screenshot.jpg)
