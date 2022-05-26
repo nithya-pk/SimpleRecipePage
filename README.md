@@ -1,4 +1,11 @@
-Code works file in Codepen.io as two different pages - one English, one Deutsch - with the corresponding html & css files.
-Have installed XAMPP on my laptop as a local web server.
-Under C:\xampp\htdocs have created two folders - recipe_page_eng and recipe_page. Each folder has "index.html" and "styles.css" with correspoding html and css code.
-Apache module needs to be running for webpages "http://localhost/recipe_page_eng/" and "http://localhost/recipe_page_deu/" to work.
+## Project: _Simple Recipe Page (in both English & Deutsch)_ ##
+   This is a simple recipe page created using html and css. There are two html pages - one for English and one for German (Deutsch) - and both use the same CSS sheet for styling.
+   
+#### Explanation ####
+   "index_english.html" is the html code file for the page. Near to the top right, there are two buttons to toggle between English and Deutsch. "English" invokes "index_english.html" and "Deutsch" invokes "index_html".
+    "styles.css" is the styling sheet for both html pages.
+   
+###### Page Funtionalities: ###### 
+   * Have made the list of recipes under "My Favourite Recipes" (English) / "Meine Lieblingsgerichte" (Deutsch)" hover
+   * Clicking on recipe in the list points to the recipe on the page
+   * Have added "Back to Top" at the end of each recipe to reach the top of the page
